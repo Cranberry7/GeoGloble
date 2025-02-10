@@ -27,3 +27,49 @@ GeoGlobe Challenge is an interactive **geography-based guessing game** where pla
 ```sh
 git clone https://github.com/yourusername/GeoGlobe-Challenge.git
 cd GeoGlobe-Challenge
+2️⃣ Install Dependencies
+Make sure you have Python 3.x installed. Then, run:
+
+sh
+Copy
+Edit
+pip install -r requirements.txt
+Alternatively, install dependencies manually:
+
+sh
+Copy
+Edit
+pip install matplotlib basemap numpy requests geopandas
+3️⃣ Run the Game
+sh
+Copy
+Edit
+python Globle.py
+📦 Dependencies
+This project requires the following dependencies:
+
+tkinter (GUI framework)
+matplotlib (for map visualization)
+mpl_toolkits.basemap (to render world maps)
+numpy (for calculations)
+requests (to fetch country data)
+geopandas (to manage geographical data)
+json (to handle country data)
+To install all dependencies in one command, run:
+
+sh
+Copy
+Edit
+pip install matplotlib basemap numpy requests geopandas
+
+👨‍💻 Contributing
+Want to improve the GeoGlobe Challenge?
+Feel free to fork this repository, create a new branch, and submit a pull request! Contributions are always welcome. 😊
+
+📜 License
+This project is open-source under the MIT License.
+
+🌟 Credits
+Created by Shaurya Agrawal
+GitHub: Cranberry7
+LinkedIn: Your LinkedIn Profile
