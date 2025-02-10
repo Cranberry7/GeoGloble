@@ -42,6 +42,7 @@ pip install matplotlib basemap numpy requests geopandas
 python Globle.py
 
 📦 Dependencies
+
 This project requires the following dependencies:
 
 tkinter (GUI framework)
@@ -57,13 +58,16 @@ pip install matplotlib basemap numpy requests geopandas
 ```
 
 👨‍💻 Contributing
+
 Want to improve the GeoGlobe Challenge?
 Feel free to fork this repository, create a new branch, and submit a pull request! Contributions are always welcome. 😊
 
 📜 License
+
 This project is open-source under the MIT License.
 
 🌟 Credits
+
 Created by Shaurya Agrawal
 GitHub: Cranberry7
 LinkedIn: Your LinkedIn Profile
