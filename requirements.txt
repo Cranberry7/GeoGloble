@@ -1,0 +1,7 @@
+tk
+matplotlib
+basemap
+numpy
+requests
+geopandas
+json
