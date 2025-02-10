@@ -27,24 +27,20 @@ GeoGlobe Challenge is an interactive **geography-based guessing game** where pla
 ```sh
 git clone https://github.com/yourusername/GeoGlobe-Challenge.git
 cd GeoGlobe-Challenge
+```
 2️⃣ Install Dependencies
 Make sure you have Python 3.x installed. Then, run:
-
-sh
-Copy
-Edit
+```sh
 pip install -r requirements.txt
+```
 Alternatively, install dependencies manually:
-
-sh
-Copy
-Edit
+```sh
 pip install matplotlib basemap numpy requests geopandas
+```
+
 3️⃣ Run the Game
-sh
-Copy
-Edit
 python Globle.py
+
 📦 Dependencies
 This project requires the following dependencies:
 
@@ -56,11 +52,9 @@ requests (to fetch country data)
 geopandas (to manage geographical data)
 json (to handle country data)
 To install all dependencies in one command, run:
-
-sh
-Copy
-Edit
+```sh
 pip install matplotlib basemap numpy requests geopandas
+```
 
 👨‍💻 Contributing
 Want to improve the GeoGlobe Challenge?
