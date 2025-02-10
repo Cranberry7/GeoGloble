@@ -1,6 +1,6 @@
-# 🌍 GeoGlobe Challenge
+# 🌍 GeoGlobe 
 
-GeoGlobe Challenge is an interactive **geography-based guessing game** where players try to identify the **mystery country** based on distance and directional hints. The game provides a visual **map-based interface** using `Tkinter` and `Basemap` in Python.
+GeoGlobe is an interactive **geography-based guessing game** where players try to identify the **mystery country** based on distance and directional hints. The game provides a visual **map-based interface** using `Tkinter` and `Basemap` in Python.
 
 ---
 
