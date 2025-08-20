@@ -56,15 +56,12 @@ To install all dependencies in one command, run:
 ```sh
 pip install matplotlib basemap numpy requests geopandas
 ```
+---
 
 👨‍💻 Contributing
 
 Want to improve the GeoGlobe Challenge?
-Feel free to fork this repository, create a new branch, and submit a pull request! Contributions are always welcome. 😊
-
-📜 License
-
-This project is open-source under the MIT License.
+Feel free to fork this repository, create a new branch, and submit a pull request! Contributions are always welcome.
 
 🌟 Credits
 
